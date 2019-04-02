@@ -1,9 +1,9 @@
 https://pedantic-shirley-61e9a6.netlify.com/
 
-# Glozzom
+## Glozzom
   -professional responsive Corporate Website.
 
-#Tech Stack
+##Tech Stack
   -HTML
   -CSS
   -Bootstrap 4
